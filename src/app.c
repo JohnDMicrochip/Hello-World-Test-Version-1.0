@@ -146,6 +146,7 @@ void APP_Tasks ( void )
         /* The default state should never be executed. */
         default:
         {
+            // not sure what to do here, just testing Git!
             /* TODO: Handle error in application's state machine. */
             break;
         }
